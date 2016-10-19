@@ -4,7 +4,7 @@
 	<title></title>
 </head>
 <body>
-    <h1>Home Page</h1>
-    <div></div>
+    <h1>Index Page</h1>
+    <div>Demo</div>
 </body>
 </html>
