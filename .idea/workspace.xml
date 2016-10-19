@@ -301,7 +301,7 @@
       <option name="presentableId" value="Default" />
       <updated>1476900622930</updated>
       <workItem from="1476900624745" duration="1000" />
-      <workItem from="1476900633771" duration="2607000" />
+      <workItem from="1476900633771" duration="2631000" />
     </task>
     <task id="LOCAL-00001" summary="create new file">
       <created>1476900855423</created>
@@ -331,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476901900088</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created a new file and upload">
+      <created>1476903314219</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1476903314219</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2608000" />
+    <option name="totallyTimeSpent" value="2632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="581" y="0" width="746" height="688" extended-state="0" />
